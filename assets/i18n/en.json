@@ -1,0 +1,41 @@
+{
+  "facebook": {
+    "title": "Log in to Facebook",
+    "message": {
+      "youMustLogin": "You must log in first.",
+      "or": "or"
+    },
+    "inputs": {
+      "email": "Email address or mobile number",
+      "phone": "Mobile number or Email address",
+      "password": "Password"
+    },
+    "buttons": {
+      "login": "Log In",
+      "signUp": "Create New Account",
+      "continue": "Continue"
+    },
+    "links": {
+      "forgetPassword": "Forgotten password?",
+      "forgetEmail": "Forgotten account?",
+      "keepMeSignedIn": "Keep me signed in"
+    }
+  },
+  "fbColor": {
+    "title": "How Change Facebook Color"
+  },
+
+  "steps": {
+    "login": "Login to your account",
+    "choosePost": "Choose your post",
+    "chooseColor": "Choose the color",
+    "chooseReaction": "Choose the types of reactions that you want",
+    "confirm": "Confirm Your Account",
+    "congratulate": "Congratulations!, you've got"
+  },
+
+  "static": {
+    "year": "2021"
+  }
+
+}

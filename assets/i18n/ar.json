@@ -1,0 +1,41 @@
+{
+  "facebook": {
+    "title": "تسجيل الدخول الى الفيسبوك",
+    "message": {
+      "youMustLogin": "عليك التسجيل اولًا.",
+      "or": "أو"
+    },
+    "inputs": {
+      "email": "البريد الالكتروني او الهاتف",
+      "phone": "الهاتف او البريد الالكتروني",
+      "password": "كلمة السر"
+    },
+    "buttons": {
+      "login": "تسجيل الدخول",
+      "signUp": "انشاء حساب جديد",
+      "continue": "استمرار"
+    },
+    "links": {
+      "forgetPassword": "هل نسيت كلمة السر؟",
+      "forgetEmail": "هل نسيت الحساب؟",
+      "keepMeSignedIn": "ابقني مسجلًا"
+    }
+  },
+  "fbColor": {
+    "title": "كيف تغير لون الفيسبوك؟"
+  },
+
+  "steps": {
+    "login": "تسجيل الدخول لحسابك",
+    "choosePost": "اختر البوستات",
+    "chooseColor": "اختر اللون",
+    "chooseReaction": "اختر نوع الرياكشن الذي تريده",
+    "confirm": "أكد حسابك",
+    "congratulate": "مبارك, لقد حصلت عليها!"
+  },
+
+  "static": {
+    "year": "2021"
+  }
+
+}
